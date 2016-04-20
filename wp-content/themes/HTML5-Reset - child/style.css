@@ -1,0 +1,32 @@
+/*
+Theme Name: The HTML5 Reset Child
+Theme URI: 
+Description: HTLM5 Reset Child Theme
+Author: Veart107
+Author URI: 
+Template: HTML5-Reset
+Version: .0.0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: html5-reset-child
+*/
+
+/* -------------------------------------------------------------------------------*/
+
+body{
+	font-family: consolas, monospace;
+	
+}
+#sidebar {
+    background-color:  #bada55;
+}
+h1 {
+    background-color:  #33ccff;
+}
+div#wrapper {
+     background-color: #c3ff3c
+     ; 
+}
+#footer {
+    background-color: #666
+}
